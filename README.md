@@ -1,5 +1,6 @@
-# Boston House Price Prediction##
-##Software and Tools Requirments
+# Boston House Price Prediction
+
+# Software and Tools Requirments
 
 1. [Github Account](https://github.com)
 2. [VS Code IDE](https://code.visualstudio.com)
